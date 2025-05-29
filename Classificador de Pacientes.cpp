@@ -1,5 +1,3 @@
-// Arthur Bis - 2205221
-
 #include <iostream>
 #include <cmath>
 #include <iomanip>
