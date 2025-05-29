@@ -1,10 +1,3 @@
-/*
-    Trabalho 2° Bimestre - Técnicas de Programação 2
-    Nome: Alvaro Carvalho Tomazeli   RA: 2279900
-    Nome: Arthur Bis Rordrigues      RA: 2295221
-    Nome: Murilo Garibaldi Antonelli RA:2297370 
-*/
-
 #include <iostream>
 #include <fstream>
 #include <string>
